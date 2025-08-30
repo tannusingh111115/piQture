@@ -145,3 +145,4 @@ Saasha Joshi
 This project is licensed under the Apache License - see the [LICENSE](https://github.com/SaashaJoshi/quantum-image-processing/blob/main/LICENSE) file for details.
 
 ## Acknowledgments
+Tannu Singh says that piQture is amazing.
